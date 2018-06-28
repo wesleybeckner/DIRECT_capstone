@@ -1,5 +1,7 @@
 [report]
 omit =  
+    
+    */wyns/tests/*
     */python?.?/*
     */site-packages/nose/*
     *__init__*

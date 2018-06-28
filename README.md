@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sarahalamdari/DIRECT_capstone.svg?branch=master)](https://travis-ci.org/sarahalamdari/DIRECT_capstone) [![Coverage Status](https://coveralls.io/repos/github/sarahalamdari/DIRECT_capstone/badge.svg?branch=master)](https://coveralls.io/github/sarahalamdari/DIRECT_capstone?branch=master)
+[![Build Status](https://travis-ci.org/sarahalamdari/DIRECT_capstone.svg?branch=master)](https://travis-ci.org/sarahalamdari/DIRECT_capstone) [![Coverage Status](https://coveralls.io/repos/github/sarahalamdari/DIRECT_capstone/badge.svg?branch=master&service=github)](https://coveralls.io/github/sarahalamdari/DIRECT_capstone?branch=master)
 
 # WYNS: A Tool for Anaylzing Twitter Sentiment on Climate Change
 
@@ -12,7 +12,7 @@
 
 ### How to Install 
 ```
-***git clone repository*** ~not pip installable yet~ 
+***git clone repository*** ~not a package~ 
 conda create -n py36 python=3.6 anaconda
 source activate py36 
 pip install -r requirements.txt 
@@ -32,8 +32,8 @@ WYNS is our capstone project for the [DIRECT](http://depts.washington.edu/uwdire
 
 
 ### Authors
-Sarah Alamdari
-Wesley Beckner
-Neal Dawson-Elli
+Sarah Alamdari,
+Wesley Beckner,
+Neal Dawson-Elli,
 Yusong Liu
 
